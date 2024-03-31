@@ -1,0 +1,15 @@
+C:\Users\pk\source\repos\BJD\BJD\bin\Debug\BJD.exe.config
+C:\Users\pk\source\repos\BJD\BJD\bin\Debug\BJD.exe
+C:\Users\pk\source\repos\BJD\BJD\bin\Debug\BJD.pdb
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.csproj.AssemblyReference.cache
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.csproj.SuggestedBindingRedirects.cache
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.Properties.Resources.resources
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.csproj.GenerateResource.cache
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.csproj.CoreCompileInputs.cache
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.exe
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.pdb
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.Form1.resources
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.Form2.resources
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.Form3.resources
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.Form4.resources
+C:\Users\pk\source\repos\BJD\BJD\obj\Debug\BJD.Form5.resources
